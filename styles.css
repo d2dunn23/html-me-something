@@ -13,8 +13,8 @@ body{
 h1{
     padding: 30px 30px 30px 30px;
 }
-#brain{
-    color: blue;
+#name{
+    background-color: blue;
 }
 .list{
     border-style: solid;
